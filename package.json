@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Nodejs crash course code",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon server.js"
   },
   "author": "Ndubuaku Emmanuel",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
