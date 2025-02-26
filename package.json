@@ -7,7 +7,7 @@
   "scripts": {
     "test": "nodemon server.js"
   },
-  "author": "Ndubuaku Emmanuel",
+  "author": "Ndubuaku Emmanuel.C",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^3.1.9"
